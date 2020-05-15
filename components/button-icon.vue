@@ -1,22 +1,9 @@
 <template>
-  <!--
-  <nuxt-link
-    :to="to"
-    class="inline-flex items-center px-4 py-2 font-bold text-gray-800 bg-gray-300 rounded btn-icon hover:bg-gray-400"
-  >
-    <img
-      v-if="icon"
-      class="w-4 h-4 mr-2 fill-current"
-      :src="require(`@/assets/icons/${icon}`)"
-      :alt="title"
-    />
-    <span>{{ title }}</span>
-  </nuxt-link>
-  -->
   <button
     type="button"
-    class="inline-flex flex-wrap items-center justify-center w-24 h-24 p-2 text-sm font-bold text-center text-gray-800 bg-gray-300 border rounded-sm shadow-sm focus:outline-none hover:bg-gray-400"
+    class="inline-flex flex-wrap items-center justify-center p-2 font-bold text-center text-gray-800 bg-gray-300 border rounded-sm shadow-sm text-2xs w-18 h-18 md:text-sm md:w-24 md:h-24 btn-icon focus:outline-none hover:bg-gray-400"
     :title="title"
+    :class="{ active: active }"
   >
     <p class="text-center">{{ title }}</p>
   </button>
@@ -40,13 +27,18 @@ export default {
       type: String,
       default: null,
       required: false
+    },
+    active: {
+      type: Boolean,
+      default: false,
+      required: false
     }
   }
 }
 </script>
 
 <style scoped>
-.btn-icon {
-  padding: 0.5em;
+.btn-icon.active {
+  background-color: rgb(187, 199, 212);
 }
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="lyt-default">
     <nuxt />
   </div>
 </template>
@@ -22,6 +22,11 @@ html {
 *:after {
   box-sizing: border-box;
   margin: 0;
+}
+
+.lyt-default {
+  background-color: #f3f3f3;
+  min-height: 100vh;
 }
 
 .button--green {

@@ -1,16 +1,20 @@
 [
   {
     "id": 1,
-    "name": "strawman",
+    "title": "Straw Man",
+    "slug": "strawman",
     "icon": "strawman.svg",
-    "excerpt": "You misrepresented someone's argument to make it easier to attack.",
-    "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
+    "excerpt": "Anda salah menggambarkan argumen seseorang untuk mempermudah menyerang argumennya",
+    "excerpt_en": "You misrepresented someone's argument to make it easier to attack.",
+    "description": "<p>Dengan membesar-besarkan, salah mengartikan, atau hanya mengarang-ngarang argumen seseorang, jauh lebih mudah untuk menyatakan posisi Anda sendiri sebagai sesuatu yang masuk akal, tetapi ketidakjujuran semacam ini berfungsi untuk melemahkan debat rasional yang jujur.;</p>",
+    "description_en": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
     "link": "/abc"
   },
   {
     "id": 2,
-    "name": "false cause",
+    "title": "False Cause",
+    "slug": "strawman",
     "excerpt": "You presumed that a real or perceived relationship between things means that one is the cause of the other.",
     "description": "Many people confuse correlation (things happening together or in sequence) for causation (that one thing actually causes the other to happen). Sometimes correlation is coincidental, or it may be attributable to a common cause.",
     "example": "Pointing to a fancy chart, Roger shows how temperatures have been rising over the past few centuries, whilst at the same time the numbers of pirates have been decreasing; thus pirates cool the world and global warming is a hoax.",
@@ -18,7 +22,8 @@
   },
   {
     "id": 3,
-    "name": "appeal to emotion",
+    "title": "Aappeal to Emotion",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -26,7 +31,8 @@
   },
   {
     "id": 4,
-    "name": "the fallacy fallacy",
+    "title": "The Fallacy Fallacy",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -34,7 +40,8 @@
   },
   {
     "id": 5,
-    "name": "slippery slope",
+    "title": "Slippery Slope",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -42,7 +49,8 @@
   },
   {
     "id": 6,
-    "name": "ad hominem",
+    "title": "Ad Hominem",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -50,7 +58,8 @@
   },
   {
     "id": 7,
-    "name": "tu quoque",
+    "title": "Tu Quoque",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -58,7 +67,8 @@
   },
   {
     "id": 8,
-    "name": "personal incredulity",
+    "title": "Personal Incredulity",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -66,7 +76,8 @@
   },
   {
     "id": 9,
-    "name": "special pleading",
+    "title": "Special Pleading",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -74,7 +85,8 @@
   },
   {
     "id": 10,
-    "name": "loaded question",
+    "title": "Loaded Question",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -82,7 +94,8 @@
   },
   {
     "id": 11,
-    "name": "burden of proof",
+    "title": "Burden of Proof",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -90,7 +103,8 @@
   },
   {
     "id": 12,
-    "name": "ambiguity",
+    "title": "Ambiguity",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -98,7 +112,8 @@
   },
   {
     "id": 13,
-    "name": "the gambler's fallacy",
+    "title": "The Gambler's Fallacy",
+    "slug": "strawman",
     "icon": "strawman.svg",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
@@ -107,7 +122,8 @@
   },
   {
     "id": 14,
-    "name": "bandwagon",
+    "title": "Bandwagon",
+    "slug": "strawman",
     "excerpt": "You presumed that a real or perceived relationship between things means that one is the cause of the other.",
     "description": "Many people confuse correlation (things happening together or in sequence) for causation (that one thing actually causes the other to happen). Sometimes correlation is coincidental, or it may be attributable to a common cause.",
     "example": "Pointing to a fancy chart, Roger shows how temperatures have been rising over the past few centuries, whilst at the same time the numbers of pirates have been decreasing; thus pirates cool the world and global warming is a hoax.",
@@ -115,7 +131,8 @@
   },
   {
     "id": 15,
-    "name": "appeal to authority",
+    "title": "Appeal to Authority",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -123,7 +140,8 @@
   },
   {
     "id": 16,
-    "name": "composition / division",
+    "title": "Composition / Division",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -131,7 +149,8 @@
   },
   {
     "id": 17,
-    "name": "no true scotsman",
+    "title": "No True Scotsman",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -139,7 +158,8 @@
   },
   {
     "id": 18,
-    "name": "genetic",
+    "title": "Genetic",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -147,7 +167,8 @@
   },
   {
     "id": 19,
-    "name": "black-or-white",
+    "title": "Black-or-white",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -155,7 +176,8 @@
   },
   {
     "id": 20,
-    "name": "begging the question",
+    "title": "Begging The Question",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -163,7 +185,8 @@
   },
   {
     "id": 21,
-    "name": "appeal to nature",
+    "title": "Appeal to Nature",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -171,7 +194,8 @@
   },
   {
     "id": 22,
-    "name": "anecdotal",
+    "title": "Anecdotal",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -179,7 +203,8 @@
   },
   {
     "id": 23,
-    "name": "the texas sharpshooter",
+    "title": "The Texas Sharpshooter",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
@@ -187,7 +212,8 @@
   },
   {
     "id": 24,
-    "name": "middle ground",
+    "title": "Middle Ground",
+    "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
     "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
