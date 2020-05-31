@@ -1,60 +1,69 @@
 [
   {
     "id": 1,
-    "title": "Straw Man",
-    "slug": "strawman",
+    "title": "Dunning-Kruger Effect",
+    "slug": "dunning-kruger-effect",
     "icon": "strawman.svg",
-    "excerpt": "Anda salah mengartikan argumen seseorang to membuatnya mudah diserang",
-    "description": "<p>Dengan melebih-lebihkan, menyalahartikan atau sepenuhnya mengarang argumen seseorang hanya untuk membenarkan argumen Anda. Ketidakjujuran semacam ini akan merusak debat rasional yang jujur.</p>",
-    "example": "Contoh: Andi mengatakan bahwa negara ini harus menganggarkan lebih banyak uang untuk kesehatan dan pendidikan, tetapi Rian bereaksi dengan mengatakan Andi benci negaranya karena berarti harus mengorbankan anggaran lain, termasuk anggaran militer & pertahanan negara."
+    "excerpt": "Anda salah menggambarkan argumen seseorang untuk mempermudah menyerang argumennya",
+    "excerpt_en": "You misrepresented someone's argument to make it easier to attack.",
+    "description": "<p>Dengan membesar-besarkan, salah mengartikan, atau hanya mengarang-ngarang argumen seseorang, jauh lebih mudah untuk menyatakan posisi Anda sendiri sebagai sesuatu yang masuk akal, tetapi ketidakjujuran semacam ini berfungsi untuk melemahkan debat rasional yang jujur.;</p>",
+    "description_en": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
+    "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
+    "link": "/abc"
   },
   {
     "id": 2,
     "title": "False Cause",
-    "slug": "false-cause",
-    "excerpt": "Anda berasumsi bahwa hubungan suatu hal dengan hal lainnya berarti salah satu menyebabkan hal tersebut terjadi.",
-    "description": "Banyak orang mengacaukan korelasi (hal-hal yang terjadi bersama atau berurutan) untuk sebab-akibat (bahwa satu hal sebenarnya menyebabkan yang lain terjadi). Terkadang korelasi bersifat kebetulan, atau mungkin disebabkan oleh penyebab umum.",
-    "example": "Contoh: Roger menunjukkan bagaimana suhu telah meningkat selama beberapa abad terakhir, sementara pada saat yang sama jumlah bajak laut telah menurun; dengan demikian bajak laut mendinginkan dunia dan pemanasan global adalah tipuan."
+    "slug": "strawman",
+    "excerpt": "You presumed that a real or perceived relationship between things means that one is the cause of the other.",
+    "description": "Many people confuse correlation (things happening together or in sequence) for causation (that one thing actually causes the other to happen). Sometimes correlation is coincidental, or it may be attributable to a common cause.",
+    "example": "Pointing to a fancy chart, Roger shows how temperatures have been rising over the past few centuries, whilst at the same time the numbers of pirates have been decreasing; thus pirates cool the world and global warming is a hoax.",
+    "link": "/abc"
   },
   {
     "id": 3,
     "title": "Aappeal to Emotion",
-    "slug": "appeal-to-emotion",
-    "excerpt": "Anda berusaha memanipulasi emosi seseorang sebagai pengganti argumen yang valid.",
-    "description": "Manipulasi emosi itu diantaranya adalah rasa takut, dengki, kebencian, kasihan, kesombongan dan banyak lagi. Terkadang argumen yang logis dapat mempengaruhi emosi atau memiliki aspek emosional. Kekeliruan terjadi ketika emosi digunakan sebagai pengganti argumen yang logis atau sekedar untuk mengaburkan fakta. Setiap orang, kecuali sosiopat dipengaruhi oleh emosi dan karena itu daya tarik terhadap emosi adalah taktik argumen yang sangat umum dan efektif, tetapi mereka pada akhirnya cacat, tidak jujur dan cenderung membuat argumen mereka dibenarkan secara emosional.",
-    "example": "Contoh: Andi tidak mau memakan otak sapi dan jeroan, tetapi ayahnya menyuruhnya memikirkan anak-anak miskin, kelaparan di negara dunia ketiga yang tidak cukup beruntung untuk mendapatkan makanan sama sekali."
+    "slug": "strawman",
+    "excerpt": "You misrepresented someone's argument to make it easier to attack.",
+    "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
+    "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
+    "link": "/abc"
   },
   {
     "id": 4,
     "title": "The Fallacy Fallacy",
-    "slug": "the-fallacy-fallacy",
-    "excerpt": "Anda berasumsi bahwa karena suatu klaim telah diperdebatkan dengan buruk maka klaim tersebut pasti salah.",
-    "description": "Sangat mungkin terjadi perdebatan dengan membuat klaim yang salah walaupun telah menggunakan logika yang koheren,",
-    "example": "Contoh: Amanda melakukan kesalah logika karena berpendapat bahwa kita harus makan makanan sehat karena ahli gizi mengatakan itu (Appeal to Authority), karena kesalah itu temannya Alisa berpendapat argumen Amanda salah, oleh sebab itu kita harus makan makanan tidak sehat setiap hari."
+    "slug": "strawman",
+    "excerpt": "You misrepresented someone's argument to make it easier to attack.",
+    "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
+    "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
+    "link": "/abc"
   },
   {
     "id": 5,
     "title": "Slippery Slope",
-    "slug": "slippery-slope",
-    "excerpt": "Anda berasumsi bila A terjadi, maka Z akan terjadi juga, oleh karena itu Anda berpendapat A tidak boleh terjadi.",
-    "description": "Ini sering terjadi ketika seseorang menghindar keterlibatan dengan masalah yang dihadapi, dan malah mengalihkan perhatiaannya ke hipotesis ekstrim. Ketiadaan bukti yang disajikan untuk menunjukan bahwa hipotesis ekstrim itu akan terjadi mengakibatkan argumen yang ada saat ini dinodai dengan dugaan yang tidak berdasar.",
-    "example": "Contoh: Andi menegaskan bahwa jika kita mengizinkan pasangan sesama jenis menikah, maka kemungkinan yang terjadi selanjutnya adalah memungkinkan orang untuk menikahi orang tua mereka, mobil mereka dan bahkan monyet."
+    "slug": "strawman",
+    "excerpt": "You misrepresented someone's argument to make it easier to attack.",
+    "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
+    "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
+    "link": "/abc"
   },
   {
     "id": 6,
     "title": "Ad Hominem",
-    "slug": "ad-hominem",
-    "excerpt": "Anda menyerang karakter atau sifat pribadi lawan Anda dalam upaya untuk melemahkan argumen mereka.",
-    "description": "Serangan ad hominem dapat berupa menyerang seseorang langsung atau secara halus untuk menimbulkan keraguan pada seseorang sebagai cara untuk mendiskreditkan argumen mereka.",
-    "example": "Contoh: Rina sebagai pengacara korban meyakinkan hakim untuk menuntut tersangka dengan seadil-adilnya, tetapi pengacara tersangka bertanya kepada hakim apakah kita harus percaya kepada seorang wanita yang belum menikah, pernah ditangkap dan baunya tidak sedap."
+    "slug": "strawman",
+    "excerpt": "You misrepresented someone's argument to make it easier to attack.",
+    "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
+    "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
+    "link": "/abc"
   },
   {
     "id": 7,
     "title": "Tu Quoque",
-    "slug": "tu-quoque",
-    "excerpt": "You avoided having to engage with criticism by turning it back on the accuser - you answered criticism with criticism.",
+    "slug": "strawman",
+    "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
-    "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending."
+    "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
+    "link": "/abc"
   },
   {
     "id": 8,
@@ -62,7 +71,8 @@
     "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
-    "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending."
+    "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
+    "link": "/abc"
   },
   {
     "id": 9,
@@ -70,7 +80,8 @@
     "slug": "strawman",
     "excerpt": "You misrepresented someone's argument to make it easier to attack.",
     "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational debate.",
-    "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending."
+    "example": "After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
+    "link": "/abc"
   },
   {
     "id": 10,
